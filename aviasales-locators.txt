@@ -1,5 +1,0 @@
-Локатор поля Откуда - placeholder="Откуда"
-Локатор поля Куда - placeholder="Куда"
-Локатор поля Когда - data-test-id="start-date-value
-Локатор поля Обратно - data-test-id="end-date-value"
-Локатор кнопки Найти билеты - data-test-id="form-submit"
