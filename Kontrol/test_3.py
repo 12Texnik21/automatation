@@ -35,4 +35,4 @@ def test_shop_form(chrome_browser):
     sleep(2)
     expected_total = "58.29"
     assert total == expected_total 
-    print("Итоговая сумма равна ${total}")
+    print("Итоговая сумма равна $58.29")
